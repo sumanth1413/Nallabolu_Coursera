@@ -9,13 +9,14 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c 
+ * @brief This file calculates the statistics of an array
  *
- * <Add Extended Description Here>
+ * calculates statistics such as mean,median, minimum and maximum for
+ * an array and prints them 
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Sumanth Nallabolu
+ * @date 7/26/2023
  *
  */
 
