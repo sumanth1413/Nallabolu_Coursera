@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.h
+ * @brief contains declarations
  *
- * <Add Extended Description Here>
+ * contains declarations for statistics functions in stats.c
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Sumanth Nallabolu
+ * @date 7/26/2023
  *
  */
 #ifndef __STATS_H__
